@@ -90,4 +90,5 @@ Please make sure to update tests as appropriate.
 
 # Project Cedits
 
+Mehul S. Katwe: https://www.linkedin.com/in/mehul-katwe-746439285/
 Rafan R. Nadiadwala: https://www.linkedin.com/in/rafan-nadiadwala-062b70262
